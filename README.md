@@ -8,11 +8,11 @@ I’m a dedicated Data Scientist with a strong background in data analysis and a
 
 ## My skill set includes:
 
-**Languages & Tools:**    Python, R, SQL, Excel
+**<u>Languages & Tools:</u>**    Python, R, SQL, Excel
 
-**Visualization:**        Tableau, Matplotlib, Seaborn
+**<u>Visualization:</u>**        Tableau, Matplotlib, Seaborn
 
-**Techniques:**           Machine Learning, Data Cleaning, Feature Engineering, Statistical Analysis
+**<u>Techniques:</u>**           Machine Learning, Data Cleaning, Feature Engineering, Statistical Analysis
 
 ***
 
