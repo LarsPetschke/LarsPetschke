@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Lars! 👋
 
-<!--
-**LarsPetschke/LarsPetschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a dedicated Data Scientist with a strong background in data analysis and a deep passion for uncovering insights through data.
 
-Here are some ideas to get you started:
+🔍 I love turning complex datasets into clear, actionable insights that drive real-world impact. From identifying patterns to building predictive models, I enjoy solving problems with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skill set includes:
+
+Languages & Tools: Python, R, SQL, Excel
+
+Visualization: Tableau, Matplotlib, Seaborn
+
+Techniques: Machine Learning, Data Cleaning, Feature Engineering, Statistical Analysis
+
+🤝 I’m open to collaborating on data science and analytics projects involving ML, dashboards, or exploratory data analysis.
+
+📚 In my spare time, I enjoy staying up to date with the latest in data science and constantly sharpening my skills.
+
+📂 On my GitHub, you'll find projects that reflect my journey—from data cleaning to model building and storytelling with visualizations.
+
+📫 Let’s connect on [LinkedIn](www.linkedin.com/in/lars-petschke) and explore opportunities to work together or share ideas!
