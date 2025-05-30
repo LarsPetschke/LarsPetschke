@@ -1,16 +1,20 @@
-## Hi there, I'm Lars! 👋
+# Hi there, I'm Lars! 👋
 
 I’m a dedicated Data Scientist with a strong background in data analysis and a deep passion for uncovering insights through data.
 
 🔍 I love turning complex datasets into clear, actionable insights that drive real-world impact. From identifying patterns to building predictive models, I enjoy solving problems with data.
 
-My skill set includes:
+***
 
+## My skill set includes:
+***
 Languages & Tools: Python, R, SQL, Excel
 
 Visualization: Tableau, Matplotlib, Seaborn
 
 Techniques: Machine Learning, Data Cleaning, Feature Engineering, Statistical Analysis
+
+***
 
 🤝 I’m open to collaborating on data science and analytics projects involving ML, dashboards, or exploratory data analysis.
 
