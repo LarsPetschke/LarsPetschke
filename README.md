@@ -20,4 +20,4 @@ I’m a dedicated Data Scientist with a strong background in data analysis and a
 
 📂 On my GitHub, you'll find projects that reflect my journey—from data cleaning to model building and storytelling with visualizations.
 
-📫 Let’s connect on [LinkedIn](www.linkedin.com/in/lars-petschke) and explore opportunities to work together or share ideas!
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/lars-petschke/) and explore opportunities to work together or share ideas!
